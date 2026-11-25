@@ -1,6 +1,9 @@
-# Cyberware Kit
+<p align="left"><img src="favicon.svg" width="96" alt="Cyberware Kit logo"></p>
 
-This folder is the built web app for **Cyberware Kit**, a site where you design custom Cyberpunk 2077 cyberware in a GUI and download it as a ready-to-install mod.
+# Cyberware Kit 
+
+
+This Reoi is the built web app for **Cyberware Kit**, a site where you design custom Cyberpunk 2077 cyberware in a GUI and download it as a ready-to-install mod.
 
 
 > Experimental. Test what you make in game before you publish it.
