@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="256" height="256" role="img" aria-label="Cyberware Kit">
+  <title>Cyberware Kit</title>
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="1.4" flood-color="#ff2a3a" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <!-- Its own dark ground (the site's page colour), so it reads on light browser tabs too. -->
+  <path d="M5 1h26v22l-8 8H1V5z" fill="#05070b"/>
+  <path d="M5 1h26v22l-8 8H1V5z" fill="#ff2a3a" fill-opacity="0.16" stroke="#ff2a3a" stroke-width="1.5" filter="url(#glow)"/>
+  <!-- "CK" in Quantico Bold (the site font), as shapes so it needs no installed font. -->
+  <path fill="#5ef4f8" d="M13.552 18.745L15.093 18.745L15.093 20.318L13.817 21.055L10.704 21.055L9.428 20.318L9.428 13.982L10.704 13.245L13.817 13.245L15.093 13.982L15.093 15.555L13.552 15.555L13.552 14.565L10.968 14.565L10.968 19.735L13.552 19.735L13.552 18.745ZM16.853 21L16.853 13.3L18.393 13.3L18.393 16.765L18.415 16.765L21.286 13.3L23.112 13.3L20.075 16.908L23.453 21L21.605 21L19.152 18.008L18.393 18.899L18.393 21L16.853 21Z"/>
+</svg>
