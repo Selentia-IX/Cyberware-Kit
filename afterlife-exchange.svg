@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="256" height="256" role="img" aria-label="Afterlife Exchange">
+  <title>Afterlife Exchange</title>
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="1.4" flood-color="#f2c14e" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <!-- Sister mark of the Cyberware Kit logo (assets/logo.svg): same frame and font, in gold with a violet complement. -->
+  <path d="M5 1h26v22l-8 8H1V5z" fill="#05070b"/>
+  <path d="M5 1h26v22l-8 8H1V5z" fill="#a77bff" fill-opacity="0.14" stroke="#f2c14e" stroke-width="1.5" filter="url(#glow)"/>
+  <!-- "A" gold, "X" violet: Quantico Bold, as shapes so it needs no installed font. -->
+  <path fill="#f2c14e" d="M13.286 13.25L15.911 20.6L14.462 20.6L13.905 19.015L11.154 19.015L10.598 20.6L9.149 20.6L11.774 13.25L13.286 13.25ZM12.519 15.098L11.595 17.755L13.454 17.755L12.54 15.098L12.519 15.098Z"/>
+  <path fill="#a77bff" d="M16.331 20.6L18.704 16.841L16.436 13.25L18.095 13.25L19.533 15.529L20.982 13.25L22.641 13.25L20.363 16.841L22.746 20.6L21.087 20.6L19.533 18.154L17.99 20.6L16.331 20.6Z"/>
+</svg>
